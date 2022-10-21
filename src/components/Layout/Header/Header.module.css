@@ -1,0 +1,14 @@
+.header {
+  background: #fff;
+}
+
+.header-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1300px;
+  height: 70px;
+  margin: 0 auto;
+  max-width: 1320px;
+  width: 100%;
+}
